@@ -7,4 +7,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
  [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)-->
 
-Welcome to my profile! I'm Nav, a student, aspiring front-end developer. I am currently learning front-end development and building projects to enhance my skills. Thanks for visiting, and I'd love to connect!
+Welcome to my profile! I'm Nav, a student, aspiring front-end developer. I am currently self-learning front-end development and building projects to enhance my skills. Thanks for visiting, and I'd love to connect!
